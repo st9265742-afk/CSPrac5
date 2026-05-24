@@ -1,0 +1,4 @@
+D:\unik\2sem\AsyncDataLibrary\obj\Debug\net8.0\AsyncDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\unik\2sem\AsyncDataLibrary\obj\Debug\net8.0\AsyncDataLibrary.AssemblyInfoInputs.cache
+D:\unik\2sem\AsyncDataLibrary\obj\Debug\net8.0\AsyncDataLibrary.AssemblyInfo.cs
+D:\unik\2sem\AsyncDataLibrary\obj\Debug\net8.0\AsyncDataLibrary.csproj.CoreCompileInputs.cache
